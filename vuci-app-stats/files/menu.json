@@ -1,0 +1,12 @@
+{
+  "stats": {
+    "title": "Stats",
+    "index": 110
+  },
+  "stats/cards": {
+    "title": "Stats Cards",
+    "view": "vuci-app-stats",
+    "files": ["/etc/config/stats"],
+    "index": 10
+  }
+}
